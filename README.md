@@ -23,7 +23,7 @@ description: \>-
 
 どうやらあまり良くないタイミングで来てしまったみたいだ。初日から忙しくなりそうだ。
 
-[image-1]:	./images/00-website-sample-01.png
-[image-2]:	./images/00-website-sample-02.png
+[image-1]:	./images/00-01-website-sample-01.png
+[image-2]:	./images/00-01-website-sample-02.png
 [image-3]:	./images/00-02-sick.png
 [image-4]:	./images/00-03-new-comer.png
