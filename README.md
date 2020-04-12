@@ -26,6 +26,8 @@
 
 ![][image-6]
 
+まずは実践
+
 [image-1]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-00-tom.png
 [image-2]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-01-website-sample-01.png
 [image-3]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-01-website-sample-02.png
