@@ -1,9 +1,9 @@
 # はじまり
 
 {% \<div style="display: flex;"\>
-\<div style="flex-basis: 40%;"\> %}
+\<div style="flex-basis: 40%;"\>
 ![][image-1]
-{%	\</div\>
+\</div\>
 \<div\>
 \<p\>
 最先端の仕事がしたいと考えていたトムは、インターネットにはいろいろなWEBサービスがあることに気がつき興味を持った。そして、あるWEBサイト制作会社のインターンをすることにした。
