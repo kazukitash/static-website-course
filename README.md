@@ -60,7 +60,8 @@ Shinonomeのホームページには画像やいろいろな文字装飾が施�
 <img src="https://github.com/kazukitash/static-website-course/raw/master/images/00-05-code.png">
 
 </div><div style="grid-area: b;"><p>
-文字や画像の大きさを装飾する言葉のことを`Code[コード]`と呼び、Codeを書くことを`Programing[プログラミング]`と呼ぶ。
+
+普段書く文字に加えて文字や画像の大きさを装飾する言葉が含まれている文章を`Code[コード]`と呼び、Codeを書くことを`Programing[プログラミング]`と呼ぶ。
 </p></div></div></div>
 
 Programingは運動と同じだ。成り立ちや理論を勉強しているだけではできるようにならない。自分で試行錯誤をしてはじめて書けるようになる。
