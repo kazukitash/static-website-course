@@ -107,10 +107,10 @@ CodeSandbox変更を確認する
 [3]:	https://www.google.com/search?q=CSS+%E5%85%A5%E9%96%80
 [4]:	http://google.com/search?q=WEB%E3%82%B5%E3%82%A4%E3%83%88+%E6%AD%B4%E5%8F%B2
 
-[image-1]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-00-tom.png
-[image-2]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-01-website-sample-01.png
-[image-3]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-01-website-sample-02.png
-[image-4]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-02-sick.png
-[image-5]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-03-new-comer.png
-[image-6]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-04-practice-first.png
-[image-7]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-05-code.png
+[image-1]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-tom.png
+[image-2]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-website-sample-01.png
+[image-3]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-website-sample-02.png
+[image-4]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-sick.png
+[image-5]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-new-comer.png
+[image-6]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-practice-first.png
+[image-7]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-code.png
