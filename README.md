@@ -14,7 +14,9 @@
 
 インターネット上には多くのWEBサイトがある。
 
-それらは見た目や動きがそれぞれ違うが、一つ共通していることがある。みんなが見ている画面の裏側では言葉によって記述されているということだ。文字の大きさや色もどの画像を表示するかもリンクをクリックするとどのページに移動するのかも、全て言葉によって表現されている。サイトの見た目をイメージすることはもちろん、言葉でどのようの表現するかも含めて考える作業がWEBデザインである。
+それらは見た目や動きがそれぞれ違うが、一つ共通していることがある。みんなが見ている画面の裏側では言葉によって記述されているということだ。文字の大きさや色もどの画像を表示するかもリンクをクリックするとどのページに移動するのかも、全て言葉によって表現されている。
+
+WEBデザインをすると言うことは、サイトの見た目をイメージすることはもちろん、言葉でどのように表現するかも含めて考えることである。
 
 <2c start>
 
@@ -22,7 +24,7 @@
 
 <2c ->
 
-Shinonomeのホームページには画像やいろいろな文字装飾が施されている。これら文字の大きさと色も言葉によって表現されている。
+Shinonomeのホームページには画像やいろいろな文字に装飾が施されている。これら文字の大きさと色も言葉によって表現されている。
 
 <2c end>
 
@@ -36,7 +38,7 @@ Shinonomeのホームページには画像やいろいろな文字装飾が施�
 
 <2c end>  
 
-> この学習コースはそんなWEBデザインに興味を持ったトムと一緒に学習を進めていく。
+ この学習コースはそんなWEBデザインに興味を持ったトムと一緒に学習を進めていく。
 
 ## チャンスは待ってくれない
 
@@ -60,7 +62,7 @@ Shinonomeのホームページには画像やいろいろな文字装飾が施�
 
 プログラマーのアレンがトムのメンター（師匠のこと）になってくれた。彼はトムを席に着かせると開口一番、さっそく書いてみようと言った。
 
-早速`Programing[プログラミング]`を始めよう。Programingとは何だろうか。
+早速`Programing[プログラミング]`を始めよう。
 
 <2c start>
 
@@ -68,27 +70,38 @@ Shinonomeのホームページには画像やいろいろな文字装飾が施�
 
 <2c ->
 
-普段書く文字に加えて文字や画像の大きさを装飾する言葉が含まれている文章を`Code[コード]`と呼び、Codeを書くことを`Programing[プログラミング]`と呼ぶ。
+**Programingとは何だろうか**
+
+普段書く文字に加えて文字や画像の大きさを装飾する言葉が含まれている文章を`Code[コード]`と呼び、Codeを書くことをProgramingと呼ぶ。
 
 <2c end>
 
 Programingは運動と同じだ。成り立ちや理論を勉強しているだけではできるようにならない。自分で試行錯誤をしてはじめて書けるようになる。
 
-> この学習コースはトムと一緒に実際に書くことで試行錯誤する形式になっている。冗長にならないように最低限の成り立ちと理論しか説明しない。詳細は他のWEBサイトや本に任せることにする。なお、ページの最後には参考にしてほしい文献と検索フレーズ（自分で調べる力をつけよう）を記載する。
+ この学習コースはトムと一緒に実際に書くことで試行錯誤する形式になっている。冗長にならないように、最低限の技術の成り立ちと理論しか説明しない。詳細は他のWEBサイトや本を読んでほしい。そのために、ページの最後には参考にしてほしい文献と検索フレーズ（自分で調べる力をつけよう）を記載する。
 
-`CodeSandbox[コードサンドボックス]`というWEBサービスを使って学習していく。アレンが書いてくれた`Template[テンプレート]`（基本となるコードのこと）に書き加えながら進めていくことで変更をすぐに確認することができる。
+## 実際にCodeSandboxを使ってみよう
 
-CodeSandbox
+学習は`CodeSandbox[コードサンドボックス]`というWEBサービスを使って行う。アレンが基本となるCodeを書いてくれた（`Template[テンプレート]`と呼んでいる）。これに自分で書き加えながら進めていくことで変更をすぐに確認しながら学習を進めていくことができる。
 
-上のような枠がページの途中で表示されたら、枠の右下のview on sandboxをクリックして新しいタブでCodeSandboxを開こう。
+まずはCodeSandboxにアクセスしてGitHubアカウントでサインインしよう。
+
+[codesandbox.io][1]
+
+サインインができたら続けよう。
+
+<codesandbox 01-01-01-znks3>
+
+上のような枠がページの途中で表示されたら、枠の右下の「Open Sandbox」
+をクリックして新しいタブでCodeSandboxを開こう。
+
+![][image-8]
 
 CodeSandbox新しいタブを開くまで
 
-
-
 CodeSandbox変更を確認する
 
-表示しているウィンドウを変える時は`command`+`→|[tab]`（Windowsは`Win`+`⇄[tab]`）を押すと素早く切り替えができる。「コードの見本を読む」→「CodeSandboxで変更を加える」→「変わっていることを確かめる」の繰り返しで学習は進んでいく。サイクルの一周に時間をかけるのではなく慣れることに努める方が早く書けるようになる。
+「コードの見本を読む」→「CodeSandboxで変更を加える」→「変わっていることを確かめる」の繰り返しで学習は進んでいく。サイクルの一周に時間をかけるのではなく慣れることに努める方が早く書けるようになる。
 
 それでは、トムと一緒にWEBデザインをすぐに始めてみよう。
 
@@ -96,16 +109,17 @@ CodeSandbox変更を確認する
 
 ### WEBサイトと本
 
-- [CodeSandbox][1]
+- [CodeSandbox][2]
 
 ### 検索フレーズ
 
-[`HTML 入門`][2] [`CSS 入門`][3][`WEBサイト 歴史`][4]
+[`HTML 入門`][3] [`CSS 入門`][4][`WEBサイト 歴史`][5]
 
 [1]:	https://codesandbox.io
-[2]:	https://www.google.com/search?q=HTML+%E5%85%A5%E9%96%80
-[3]:	https://www.google.com/search?q=CSS+%E5%85%A5%E9%96%80
-[4]:	http://google.com/search?q=WEB%E3%82%B5%E3%82%A4%E3%83%88+%E6%AD%B4%E5%8F%B2
+[2]:	https://codesandbox.io
+[3]:	https://www.google.com/search?q=HTML+%E5%85%A5%E9%96%80
+[4]:	https://www.google.com/search?q=CSS+%E5%85%A5%E9%96%80
+[5]:	http://google.com/search?q=WEB%E3%82%B5%E3%82%A4%E3%83%88+%E6%AD%B4%E5%8F%B2
 
 [image-1]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-tom.png
 [image-2]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-website-sample-01.png
@@ -114,3 +128,4 @@ CodeSandbox変更を確認する
 [image-5]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-new-comer.png
 [image-6]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-practice-first.png
 [image-7]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-code.png
+[image-8]:	https://github.com/kazukitash/static-website-course/raw/master/images/00-codesandbox-tutorial.png
