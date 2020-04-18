@@ -55,6 +55,8 @@ Shinonomeのホームページには画像やいろいろな文字装飾が施�
 
 プログラマーのアレンがトムのメンター（師匠のこと）になってくれた。彼はトムを席に着かせると開口一番、さっそく書いてみようと言った。
 
+早速`Programing[プログラミング]`を始めよう。Programingとは何だろうか。
+
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-areas: 'a b'; align-items: center;""\><div style="grid-area: a;">
 
 <img src="https://github.com/kazukitash/static-website-course/raw/master/images/00-05-code.png">
@@ -68,7 +70,7 @@ Programingは運動と同じだ。成り立ちや理論を勉強しているだ�
 
 > この学習コースはトムと一緒に実際に書くことで試行錯誤する形式になっている。冗長にならないように最低限の成り立ちと理論しか説明しない。詳細は他のWEBサイトや本に任せることにする。なお、ページの最後には参考にしてほしい文献と検索フレーズ（自分で調べる力をつけよう）を記載する。
 
-`CodeSandbox[コードサンドボックス]`というWEBサービスを使って学習していこう。アレンが書いてくれた`Template[テンプレート]`（基本となるコードのこと）に書き加えながら進めていくことで変更をすぐに確認することができる。
+`CodeSandbox[コードサンドボックス]`というWEBサービスを使って学習していく。アレンが書いてくれた`Template[テンプレート]`（基本となるコードのこと）に書き加えながら進めていくことで変更をすぐに確認することができる。
 
 CodeSandbox
 
